@@ -1,4 +1,4 @@
-# simple_calculator
+# simple calculator
 This is a simple command-line calculator application that supports various mathematical operations.
 
 ## Features
